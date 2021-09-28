@@ -1,0 +1,15 @@
+{
+    "name": "enric/projet1",
+    "autoload": {
+        "psr-4": {
+            "": "src/Libraries"
+        }
+    },
+    "authors": [
+        {
+            "name": "Enric42",
+            "email": "46706428+Enric42@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}

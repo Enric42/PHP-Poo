@@ -1,5 +1,7 @@
 <?php
 
+
+
 class Database {
     /**
      * retourne une connexion à la base de donnée
